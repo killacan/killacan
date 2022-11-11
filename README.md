@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cameron Sands and I'm a Software Developer, from Texas.</h2>
+<h2 align="left">Hi 👋! My name is Cameron Sands and I'm a Software Developer.</h2>
 
 ###
 
